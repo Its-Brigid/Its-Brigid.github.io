@@ -2,9 +2,9 @@
 title: "Papers"
 permalink: /papers/
 date: 2016-02-24T03:02:20+00:00
-sidebar:
-  - title: "Papers"
-    text: "Currently published papers"
+values:
+  layout: single
+  author_profile: true
 ---
 ## Simulated Regolith Testing of Origami-Based Covers for Space Robots
 ### Authors: Brigid Hickey, Ryan St. Pierre
