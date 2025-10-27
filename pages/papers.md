@@ -2,6 +2,9 @@
 title: "Papers"
 permalink: /papers/
 date: 2016-02-24T03:02:20+00:00
+sidebar:
+  - title: "Papers"
+    text: "Most Recent Paper: Simulated Regolith Testing of Origami-Based Covers for Space Robots"
 ---
 # Published Papers
 
