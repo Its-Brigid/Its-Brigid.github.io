@@ -4,4 +4,7 @@ permalink: /projects/
 date: 2016-02-24T03:02:20+00:00
 ---
 
-add projects
+### SCAR-E 
+## Gripper Interchange
+## Origamic Gripper Covers
+## Realsense Camera Mounts
