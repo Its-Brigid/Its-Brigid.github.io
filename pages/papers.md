@@ -4,17 +4,8 @@ permalink: /papers/
 date: 2016-02-24T03:02:20+00:00
 sidebar:
   - title: "Papers"
-    text: "Most Recent Paper: Simulated Regolith Testing of Origami-Based Covers for Space Robots"
+    text: "Currently published papers"
 ---
-# Published Papers
-
-## Soft Gripping System for Space Exploration Legged Robots
-### Authors: Arthur Candalot, Malik-Manel Hashim, Brigid Hickey, Mickael Laine, Mitch Hunter-Scullion, Kazuya Yoshida 
-### Published to: [Walking Robots into Real World](https://link.springer.com/book/10.1007/978-3-031-71301-9)
-### Date Published: January 1, 2025
-#### Abstract
-> Although wheeled robots have been predominant for planetary exploration, their geometry limits their capabilities when traveling over steep slopes, through rocky terrains, and in microgravity. Legged robots equipped with grippers are a viable alternative to overcome these obstacles. This paper proposes a gripping system that can provide legged space-explorer robots a reliable anchor on uneven rocky terrain. This gripper provides the benefits of soft gripping technology by using segmented tendon-driven fingers to adapt to the target shape, and creates a strong adhesion to rocky surfaces with the help of microspines. The gripping performances are showcased, and multiple experiments demonstrate the impact of the pulling angle, target shape, spine configuration, and actuation power on the performances. The results show that the proposed gripper can be a suitable solution for advanced space exploration, including climbing, lunar caves, or exploration of the surface of asteroids.
-
 ## Simulated Regolith Testing of Origami-Based Covers for Space Robots
 ### Authors: Brigid Hickey, Ryan St. Pierre
 ### Published to: [The International Conference on Space Robotics](https://www.isparo.space)
@@ -39,3 +30,12 @@ ing a trade-off between flexibility and environmental protection.
 The approach can be extended to other simulants, including
 returned regolith, offering a scalable framework for qualifying
 protective structures in space robotics.
+
+## Soft Gripping System for Space Exploration Legged Robots
+### Authors: Arthur Candalot, Malik-Manel Hashim, Brigid Hickey, Mickael Laine, Mitch Hunter-Scullion, Kazuya Yoshida 
+### Published to: [Walking Robots into Real World](https://link.springer.com/book/10.1007/978-3-031-71301-9)
+### Date Published: January 1, 2025
+#### Abstract
+> Although wheeled robots have been predominant for planetary exploration, their geometry limits their capabilities when traveling over steep slopes, through rocky terrains, and in microgravity. Legged robots equipped with grippers are a viable alternative to overcome these obstacles. This paper proposes a gripping system that can provide legged space-explorer robots a reliable anchor on uneven rocky terrain. This gripper provides the benefits of soft gripping technology by using segmented tendon-driven fingers to adapt to the target shape, and creates a strong adhesion to rocky surfaces with the help of microspines. The gripping performances are showcased, and multiple experiments demonstrate the impact of the pulling angle, target shape, spine configuration, and actuation power on the performances. The results show that the proposed gripper can be a suitable solution for advanced space exploration, including climbing, lunar caves, or exploration of the surface of asteroids.
+
+
