@@ -119,7 +119,7 @@ author:
   location         : "University at Buffalo"
   email            :
   links:
-    - label: "Email"
+    - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:brigidhi@buffalo.edu"
    
@@ -145,7 +145,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
