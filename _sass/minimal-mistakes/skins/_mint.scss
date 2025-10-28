@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #D3DBC9 !default;
+$background-color: #E9EADF !default;
 $text-color: #2B392E !default;
 $muted-text-color: #44624A !default;
 $primary-color: #44624A !default;
@@ -15,7 +15,7 @@ $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#FFF2EA, $text-color, 80%) !default;
 
 .page__footer {
-  color: #FFF2EA !important; // override
+  color: #E9EADF !important; // override
 }
 
 .page__footer-follow .social-icons i,
