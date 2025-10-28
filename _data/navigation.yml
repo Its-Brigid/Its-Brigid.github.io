@@ -4,9 +4,9 @@ main:
     url: /paper/
   - title: "Past Projects"
     url: /project/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Work Experience"
+     url: /work/
+   - title: "Education"
+     url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
