@@ -8,6 +8,16 @@ share: false
 ---
 
 # PhD (in progress)
-# Master's Degree (UB)
-# Bachelor degree (UB)
+University at Buffalo
+Estimated Graduation Date: May 2028
+Thesis: TBD
+# Master's of Science in Mechanical Engineering
+University at Buffalo
+May 2025
+Thesis: Flexible Origamic Covers for Space Exploration
+# Bachelor's of Science in Mechanical Engineering
+University at Buffalo
+February 2024
 ## JYPE
+Tohoku University
+October 2022 - August 2023
